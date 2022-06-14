@@ -59,6 +59,7 @@ nav ul {
 nav ul li {
   color: var(--text-color);
   cursor: pointer;
+  font-size: 7px;
 }
 
 .container {
